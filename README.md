@@ -1,6 +1,6 @@
 ### Olá, sou Renato Pereira da Silva
 
-<div style="display: flex;"> 
+<div style="display: inline"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatouhu&show_icons=true&theme=tokyonight";>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatouhu&layout=compact&theme=tokyonight"/>
 </div>
