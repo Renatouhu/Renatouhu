@@ -1,5 +1,7 @@
 ### Olá, sou Renato Pereira da Silva
 
+#### Sou um Iniciante no Mercado de Programação, já tive contanto com as linguagens HTML, CSS, Javascript e PHP, além do controle de versão de projetos com o GIT
+
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Renatouhu&show_icons=true&theme=tokyonight";>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatouhu&layout=compact&theme=tokyonight"/>
