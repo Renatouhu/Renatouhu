@@ -1,6 +1,6 @@
 ### Olá, sou Renato Pereira da Silva
 
-#### Sou um Iniciante no Mercado de Programação, já tive contato com as linguagens HTML, CSS e Javascript . Além do controle de versão de projetos com o GIT
+#### Sou um Iniciante no Mercado de Programação, já tive contato com as linguagens básicas como HTML, CSS e Javascript. Além de bibliotecas javascript como React, Three.js no React utilizando React-Three-Fiber e Drei, Vanilla-Extract, Theatre.js. Utilizando Next.js como FrameWork. Tenho contato com linguagens de Backend como PHP e Java. Quero nos próximos 5 anos me tornar um desenvolvedor Fullstack.
 
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Renatouhu&show_icons=true&theme=tokyonight";>
